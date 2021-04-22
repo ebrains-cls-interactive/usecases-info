@@ -1,0 +1,197 @@
+{
+  "definitions": {
+    "contributors": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "email"
+      ],
+      "additionalProperties": false
+    },
+    "usecase_group": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/usecase_item"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "title",
+        "items"
+      ]
+    },
+    "usecase_item": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "experience": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": [
+            {
+              "type": "string",
+              "enum": [
+                "all",
+                "power",
+                "experts",
+                "code"
+              ]
+            }
+          ],
+          "minItems": 1
+        },
+        "maturity": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": [
+            {
+              "type": "string",
+              "enum": [
+                "experimental",
+                "beta"
+              ]
+            }
+          ],
+          "minItems": 1
+        },
+        "access": {
+          "type": [
+            "array",
+            "null"
+          ],
+          "items": [
+            {
+              "type": "string",
+              "enum": [
+                "hpc",
+                "byor"
+              ]
+            }
+          ],
+          "minItems": 1
+        },
+        "disabled": {
+          "type": "boolean"
+        },
+        "implementation": {
+          "type": "string",
+          "enum": [
+            "webapp",
+            "ipynb"
+          ]
+        },
+        "contributors": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/contributors"
+          }
+        },
+        "picture": {
+          "type": "object",
+          "properties": {
+            "src": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "src"
+          ]
+        },
+        "dataProtected": {
+          "type": "boolean"
+        },
+        "externalUrl": {
+          "type": "string"
+        },
+        "chooseModel": {
+          "type": "boolean"
+        },
+        "tutorial": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "notebookPath": {
+          "type": "string"
+        },
+        "notebookRepoUrl": {
+          "type": "string"
+        }
+      },
+      "dependencies": {
+        "notebookPath": [
+          "notebookRepoUrl"
+        ]
+      },
+      "required": [
+        "title",
+        "description",
+        "experience",
+        "maturity",
+        "access",
+        "disabled",
+        "implementation",
+        "contributors",
+        "picture",
+        "dataProtected"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "type": "array",
+  "$id": "UsecaseFileInterface",
+  "items": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "id": {
+        "type": "string"
+      },
+      "usecases": {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/usecase_item"
+        }
+      },
+      "groups": {
+        "type": "array",
+        "items": {
+          "$ref": "#/definitions/usecase_group"
+        }
+      }
+    },
+    "required": [
+      "title",
+      "id",
+      "usecases"
+    ],
+    "additionalProperties": false
+  }
+}

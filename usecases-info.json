@@ -1,0 +1,245 @@
+
+[
+  {
+    "title": "Trace Analysis",
+    "id": "traceanalysis",
+    "usecases": [
+      {
+        "title": "Feature extraction",
+        "description": "Extracts electrophysiological features; traces can be from NeuroInformatics Platform or uploaded",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "disabled": false,
+        "implementation": "webapp",
+        "contributors": [
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"}
+        ],
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/features.png"
+        },
+        "dataProtected": true,
+        "externalUrl": "https://hbp-bsp-hhnb.cineca.it/efelg/",
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/FeatureExtraction/index.html"
+      },
+      {
+        "title": "Synaptic events fitting",
+        "description": "Fitting synaptic events using data and model in NeuroInformatics Platform",
+        "experience": ["power"],
+        "access": ["hpc"],
+        "maturity": ["beta"],
+        "disabled": true,
+        "implementation": "ipynb",
+        "contributors": [
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+        ],
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
+        },
+        "dataProtected": true,
+        "notebookPath": "production_notebooks/traceanalysis/Synaptic events fitting.ipynb",
+        "notebookRepoUrl": "https://github.com/antonelepfl/usecases&branch=dev",
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Single Cell Modeling",
+    "id": "singlecellmodeling",
+    "usecases": [
+      {
+        "title": "Hodgkin-Huxley Neuron Builder",
+        "description": "Use the eFEL and BluePyOpt libraries to go through the entire neuron builder pipeline: 1) feature extraction, 2) model optimization, 3) simulation.",
+        "experience": ["all"],
+        "access": ["hpc"],
+        "maturity": ["beta"],
+        "disabled": false,
+        "implementation": "webapp",
+        "dataProtected": true,
+        "contributors": [
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+        ],
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/master/src/assets/images/hhnb.png"
+        },
+        "externalUrl": "https://ebrains.eu/service/hodgkin-huxley-neuron-builder",
+        "chooseModel": true,
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
+      },
+      {
+        "title": "Build your own single hippocampal cell model using HBP data",
+        "description": "Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.",
+        "contributors": [
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+        ],
+        "maturity": ["beta"],
+        "experience": ["power"],
+        "access": null,
+        "disabled": false,
+        "implementation": "ipynb",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+        },
+        "dataProtected": true,
+        "notebookPath": "BuildOwn Single HippoCell - Analysis.ipynb",
+        "notebookRepoUrl": "https://github.com/eb-cls-jn/BuildOwn_Single_HippoCell&branch=main",
+        "chooseModel": false
+      }
+    ]
+  },
+  {
+    "title": "Morphology",
+    "id": "morphology",
+    "usecases": [
+      {
+        "title": "Morphology analysis",
+        "description": "Performs analysis on a morphology with NeuroM",
+        "contributors": [
+          {"name": "Liesbeth Vanherpe", "email": ""}
+        ],
+        "maturity": ["beta"],
+        "experience": ["power"],
+        "access": null,
+        "disabled": false,
+        "implementation": "ipynb",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/morphology.png"
+        },
+        "dataProtected": false,
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyAnalysis/index.html",
+        "chooseModel": true,
+        "notebookPath": "Morphology_Analysis.ipynb",
+        "notebookRepoUrl": "https://github.com/eb-cls-jn/Morphology&branch=master"
+      }
+    ]
+  },
+  {
+    "title": "Single Cell InSilico Experiments",
+    "id": "singlecellinsilicoexperiments",
+    "usecases": [
+      {
+        "title": "Single cell in silico experiments under current clamp",
+        "description": "",
+        "contributors": [
+          {"name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch"}
+        ],
+        "maturity": ["beta"],
+        "experience": ["all"],
+        "access": null,
+        "disabled": false,
+        "dataProtected": false,
+        "implementation": "webapp",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/l5pc_release_responses-eps.jpg"
+        },
+        "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu/#/model/dSTUT214_L6_NBC_6_tkb050507a1_ch1_bc_b_yw_60x_1_-_Scale_x1.000_y0.975_z1.000_-_Clone_4",
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html"
+      }
+    ]
+  },
+  {
+    "title": "Small Circuit InSilico Experiments",
+    "id": "smallcircuitinsilicoexperiments",
+    "usecases": [
+      {
+        "title": "Mouse O1 - Scaffold Somatosensory Cortex Microcircuit for Mouse",
+        "description": "This model combines specific datasets obtained for mouse somatosensory cortex, models of neuronal electrophysiology constrained to mouse primary visual cortex data from the Allen Cell Types Database, and datasets that were algorithmically transformed from rat to mouse.",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "dataProtected": false,
+        "implementation": "webapp",
+        "disabled": false,
+        "contributors": [
+          {"name": "Michael W. Reimann", "email": "michael.reimann@epfl.ch"},
+          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"},
+          {"name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch"}
+        ],
+        "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/testvue/master/imgtest/mouse_o1.png"
+        },
+        "tutorial": null
+      },
+      {
+        "title": "Rat hippocampus CA1",
+        "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "dataProtected": false,
+        "implementation": "webapp",
+        "disabled": false,
+        "contributors": [
+          {"name": "Szabolcs Káli", "email": "kali@koki.hu"},
+          {"name": "Audrey Mercer", "email": "a.mercer@ucl.ac.uk"},
+          {"name": "Michele Migliore", "email": "michele.migliore@yale.edu"},
+          {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
+          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"}
+        ],
+        "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/testvue/master/imgtest/rat-ca1-circuit.png"
+        },
+        "tutorial": null
+      }
+    ]
+  },
+  {
+    "title": "Brain Area Circuit InSilico Experiments",
+    "id": "brainareacircuitinsilicoexperiments",
+    "usecases": [],
+    "groups": [
+      {
+        "title": "Hippocampus",
+        "items": [
+          {
+            "title": "Configure and run a rat hippocampus CA1 region using preconfigured HBP model and data",
+            "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
+            "experience": ["all"],
+            "maturity": ["beta"],
+            "access": null,
+            "dataProtected": false,
+            "implementation": "webapp",
+            "disabled": false,
+            "contributors": [
+              {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
+              {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
+              {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
+            ],
+            "externalUrl": "https://bbp.epfl.ch/public/simulationapp/index.html#/circuits/hippo_hbp_full_ca1",
+            "picture": {
+              "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/hippocampusConnections.png"
+            },
+            "tutorial": null
+          },
+          {
+            "title": "Configure and run a hippocampus microcircuit",
+            "description": "A microcircuit of detailed neuron models.",
+            "experience": ["all"],
+            "maturity": ["beta"],
+            "access": null,
+            "dataProtected": false,
+            "implementation": "webapp",
+            "disabled": false,
+            "contributors": [
+              {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
+              {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
+              {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
+            ],
+            "externalUrl": "https://bbp.epfl.ch/public/simulationapp/index.html#/circuits/hippo_mooc_sa_microcircuit",
+            "picture": {
+              "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/ca1_microcircuit.png"
+            },
+            "tutorial": null
+          }
+        ]
+      }
+    ]
+  }
+]
