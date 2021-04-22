@@ -161,37 +161,46 @@
         "dataProtected"
       ],
       "additionalProperties": false
+    },
+    "usecase_category": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "id": {
+          "type": "string"
+        },
+        "usecases": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/usecase_item"
+          }
+        },
+        "groups": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/usecase_group"
+          }
+        }
+      },
+      "required": [
+        "title",
+        "id",
+        "usecases"
+      ],
+      "additionalProperties": false
+    },
+    "usecases_file_interface": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/usecase_category"
+      }
     }
   },
-  "type": "array",
-  "$id": "UsecaseFileInterface",
-  "items": {
-    "type": "object",
-    "properties": {
-      "title": {
-        "type": "string"
-      },
-      "id": {
-        "type": "string"
-      },
-      "usecases": {
-        "type": "array",
-        "items": {
-          "$ref": "#/definitions/usecase_item"
-        }
-      },
-      "groups": {
-        "type": "array",
-        "items": {
-          "$ref": "#/definitions/usecase_group"
-        }
-      }
-    },
-    "required": [
-      "title",
-      "id",
-      "usecases"
-    ],
-    "additionalProperties": false
-  }
+  "oneOf": [
+    {
+      "$ref": "#/definitions/usecases_file_interface"
+    }
+  ]
 }
