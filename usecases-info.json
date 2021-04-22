@@ -88,6 +88,27 @@
         "notebookPath": "BuildOwn Single HippoCell - Analysis.ipynb",
         "notebookRepoUrl": "https://github.com/eb-cls-jn/BuildOwn_Single_HippoCell&branch=main",
         "chooseModel": false
+      },
+      {
+        "title": "Rebuild an existing single hippocampal cell model",
+        "description": "Use the BluePyOpt to re-run an optimization with your choices for the parameters range",
+        "contributors": [
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+        ],
+        "maturity": ["beta"],
+        "experience": ["power"],
+        "access": null,
+        "disabled": false,
+        "implementation": "ipynb",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+        },
+        "dataProtected": false,
+        "chooseModel": true,
+        "notebookPath": "Rebuild Single HippoCell - Analysis.ipynb",
+        "notebookRepoUrl": "https://github.com/eb-cls-jn/Rebuild_Single_HippoCell&branch=main"
       }
     ]
   },

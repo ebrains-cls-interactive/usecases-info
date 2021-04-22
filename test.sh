@@ -1,0 +1,1 @@
+npx ajv-cli validate -s usecases-info.schema.json -d usecases-info.json
