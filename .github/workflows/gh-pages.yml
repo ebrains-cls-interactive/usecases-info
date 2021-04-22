@@ -1,9 +1,6 @@
 name: Deploy to Github Pages
 
-on:
-  push:
-    branches:
-      - ci
+on: [push]
 
 jobs:
   check-format:
