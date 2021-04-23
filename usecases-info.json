@@ -13,7 +13,8 @@
         "implementation": "webapp",
         "contributors": [
           {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"}
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
+          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/features.png"
@@ -31,8 +32,8 @@
         "disabled": true,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
           {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
         ],
         "picture": {
@@ -72,9 +73,10 @@
         "title": "Build your own single hippocampal cell model using HBP data",
         "description": "Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
+          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
         "maturity": ["beta"],
         "experience": ["power"],
@@ -93,9 +95,10 @@
         "title": "Rebuild an existing single hippocampal cell model",
         "description": "Use the BluePyOpt to re-run an optimization with your choices for the parameters range",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@pa.ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@pa.ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
+          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
+          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
         "maturity": ["beta"],
         "experience": ["power"],
