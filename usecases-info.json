@@ -34,7 +34,8 @@
         "contributors": [
           {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
           {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
+          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
