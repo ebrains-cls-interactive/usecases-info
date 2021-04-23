@@ -4,6 +4,7 @@
     "id": "traceanalysis",
     "usecases": [
       {
+        "id": "featureExtraction",
         "title": "Feature extraction",
         "description": "Extracts electrophysiological features; traces can be from NeuroInformatics Platform or uploaded",
         "experience": ["all"],
@@ -24,6 +25,7 @@
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/FeatureExtraction/index.html"
       },
       {
+        "id": "synapticEventsFitting",
         "title": "Synaptic events fitting",
         "description": "Fitting synaptic events using data and model in NeuroInformatics Platform",
         "experience": ["power"],
@@ -51,6 +53,7 @@
     "id": "singlecellmodeling",
     "usecases": [
       {
+        "id": "hodgkinHuxleyNeuronBuilder",
         "title": "Hodgkin-Huxley Neuron Builder",
         "description": "Use the eFEL and BluePyOpt libraries to go through the entire neuron builder pipeline: 1) feature extraction, 2) model optimization, 3) simulation.",
         "experience": ["all"],
@@ -70,6 +73,7 @@
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
       },
       {
+        "id": "buildHippocampalCellModel",
         "title": "Build your own single hippocampal cell model using HBP data",
         "description": "Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.",
         "contributors": [
@@ -92,6 +96,7 @@
         "chooseModel": false
       },
       {
+        "id": "rebuildHippocampalCellModel",
         "title": "Rebuild an existing single hippocampal cell model",
         "description": "Use the BluePyOpt to re-run an optimization with your choices for the parameters range",
         "contributors": [
@@ -120,6 +125,7 @@
     "id": "morphology",
     "usecases": [
       {
+        "id": "morphologyAnalysis",
         "title": "Morphology analysis",
         "description": "Performs analysis on a morphology with NeuroM",
         "contributors": [
@@ -146,6 +152,7 @@
     "id": "singlecellinsilicoexperiments",
     "usecases": [
       {
+        "id": "blueNaas",
         "title": "Single cell in silico experiments under current clamp",
         "description": "",
         "contributors": [
@@ -170,6 +177,7 @@
     "id": "smallcircuitinsilicoexperiments",
     "usecases": [
       {
+        "id": "bluePairRecordingMouseO1",
         "title": "Mouse O1 - Scaffold Somatosensory Cortex Microcircuit for Mouse",
         "description": "This model combines specific datasets obtained for mouse somatosensory cortex, models of neuronal electrophysiology constrained to mouse primary visual cortex data from the Allen Cell Types Database, and datasets that were algorithmically transformed from rat to mouse.",
         "experience": ["all"],
@@ -190,6 +198,7 @@
         "tutorial": null
       },
       {
+        "id": "bluePairRecordingHippocampusCA1",
         "title": "Rat hippocampus CA1",
         "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
         "experience": ["all"],
@@ -222,6 +231,7 @@
         "title": "Hippocampus",
         "items": [
           {
+            "id": "simLauncherCA1",
             "title": "Configure and run a rat hippocampus CA1 region using preconfigured HBP model and data",
             "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
             "experience": ["all"],
@@ -242,6 +252,7 @@
             "tutorial": null
           },
           {
+            "id": "simLauncherMicrocircuit",
             "title": "Configure and run a hippocampus microcircuit",
             "description": "A microcircuit of detailed neuron models.",
             "experience": ["all"],

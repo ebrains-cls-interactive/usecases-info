@@ -38,6 +38,9 @@
     "usecase_item": {
       "type": "object",
       "properties": {
+        "id": {
+          "type": "string"
+        },
         "title": {
           "type": "string"
         },
@@ -149,6 +152,7 @@
         ]
       },
       "required": [
+        "id",
         "title",
         "description",
         "experience",
