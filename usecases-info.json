@@ -31,7 +31,7 @@
         "experience": ["power"],
         "access": ["hpc"],
         "maturity": ["beta"],
-        "disabled": true,
+        "disabled": false,
         "implementation": "ipynb",
         "contributors": [
           {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
@@ -43,8 +43,8 @@
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
         },
         "dataProtected": true,
-        "notebookPath": "production_notebooks/traceanalysis/Synaptic events fitting.ipynb",
-        "notebookRepoUrl": "https://github.com/antonelepfl/usecases&branch=dev",
+        "notebookPath": "Synaptic events fitting.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Events_Fitting&branch=main",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
       }
     ]
@@ -92,7 +92,7 @@
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
         },
         "dataProtected": true,
-        "notebookPath": "BuildOwn Single HippoCell - Analysis.ipynb",
+        "notebookPath": "BuildOwn Single HippoCell - Config.ipynb",
         "notebookRepoUrl": "https://github.com/eb-cls-jn/BuildOwn_Single_HippoCell&branch=main",
         "chooseModel": false
       },
@@ -116,7 +116,7 @@
         },
         "dataProtected": false,
         "chooseModel": true,
-        "notebookPath": "Rebuild Single HippoCell - Analysis.ipynb",
+        "notebookPath": "Rebuild Single HippoCell - Config.ipynb",
         "notebookRepoUrl": "https://github.com/eb-cls-jn/Rebuild_Single_HippoCell&branch=main"
       }
     ]
