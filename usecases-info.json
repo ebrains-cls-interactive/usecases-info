@@ -162,6 +162,27 @@
         "chooseModel": true,
         "notebookPath": "Rebuild Single HippoCell - Config.ipynb",
         "notebookRepoUrl": "https://github.com/eb-cls-jn/Rebuild_Single_HippoCell&branch=main"
+      },
+      {
+        "id": "synapticPlasticity",
+        "title": "Synaptic plasticity",
+        "description": "Configure and test different synaptic plasticity models and protocols",
+        "contributors": [
+          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
+          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+        ],
+        "maturity": ["beta"],
+        "experience": ["all"],
+        "access": null,
+        "disabled": true,
+        "implementation": "ipynb",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/Plasticity2.png"
+        },
+        "dataProtected": false,
+        "chooseModel": true,
+        "notebookPath": "Synaptic plasticity.ipynb",
+        "notebookRepoUrl": "&branch=main"
       }
     ]
   },
