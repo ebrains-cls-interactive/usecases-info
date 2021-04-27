@@ -58,7 +58,6 @@
         "implementation": "ipynb",
         "contributors": [
           {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
           {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
           {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
@@ -81,7 +80,6 @@
         "implementation": "ipynb",
         "contributors": [
           {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
           {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
           {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
         ],
