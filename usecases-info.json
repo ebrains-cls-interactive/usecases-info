@@ -230,6 +230,7 @@
         "disabled": false,
         "dataProtected": false,
         "implementation": "webapp",
+        "chooseModel": true,
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/l5pc_release_responses-eps.jpg"
         },
