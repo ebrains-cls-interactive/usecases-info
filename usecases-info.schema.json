@@ -144,11 +144,20 @@
         },
         "notebookRepoUrl": {
           "type": "string"
+        },
+        "externalUrlModelPlaceholder": {
+          "type": "string"
+        },
+        "maxModelSelection": {
+          "type": "number"
         }
       },
       "dependencies": {
         "notebookPath": [
           "notebookRepoUrl"
+        ],
+        "externalUrlModelPlaceholder": [
+          "maxModelSelection"
         ]
       },
       "required": [
