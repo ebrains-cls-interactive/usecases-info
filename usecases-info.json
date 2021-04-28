@@ -234,8 +234,10 @@
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/l5pc_release_responses-eps.jpg"
         },
-        "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu/#/model/dSTUT214_L6_NBC_6_tkb050507a1_ch1_bc_b_yw_60x_1_-_Scale_x1.000_y0.975_z1.000_-_Clone_4",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html"
+        "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu",
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
+        "externalUrlModelPlaceholder": "{URL}/#/model/{MODEL}",
+        "maxModelSelection": 1
       }
     ]
   },
