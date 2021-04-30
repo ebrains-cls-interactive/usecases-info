@@ -233,6 +233,28 @@
         "chooseModel": true,
         "notebookPath": "Morphology_Analysis.ipynb",
         "notebookRepoUrl": "https://github.com/eb-cls-jn/Morphology&branch=master"
+      },
+      {
+        "id": "morphologyVisualization",
+        "title": "Morphology visualization",
+        "description": "Display neuron morphology in 3D",
+        "contributors": [
+          {"name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch"}
+        ],
+        "maturity": null,
+        "access": null,
+        "experience": ["all"],
+        "disabled": false,
+        "implementation": "webapp",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/morphology_3d.png"
+        },
+        "dataProtected": true,
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyVisualization/index.html",
+        "chooseModel": true,
+        "externalUrl": "https://morph-view.apps.hbp.eu",
+        "externalUrlModelPlaceholder": "{EXTERNAL_URL}/?model={MORPHOLOGY_URL}",
+        "maxModelSelection": 1
       }
     ]
   },
@@ -259,7 +281,7 @@
         },
         "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
-        "externalUrlModelPlaceholder": "{URL}/#/model/{MODEL}",
+        "externalUrlModelPlaceholder": "{EXTERNAL_URL}/#/model/{MODEL_NAME}",
         "maxModelSelection": 1
       }
     ]
