@@ -359,7 +359,7 @@
               {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
               {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
             ],
-            "externalUrl": "https://bbp.epfl.ch/public/simulationapp/index.html#/circuits/hippo_hbp_full_ca1",
+            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
             "picture": {
               "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/hippocampusConnections.png"
             },
@@ -380,7 +380,7 @@
               {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
               {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
             ],
-            "externalUrl": "https://bbp.epfl.ch/public/simulationapp/index.html#/circuits/hippo_mooc_sa_microcircuit",
+            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
             "picture": {
               "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/ca1_microcircuit.png"
             },
