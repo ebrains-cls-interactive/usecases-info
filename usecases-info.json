@@ -160,7 +160,7 @@
         },
         "dataProtected": true,
         "notebookPath": "BuildOwn Single HippoCell - Config.ipynb",
-        "notebookRepoUrl": "https://github.com/eb-cls-jn/BuildOwn_Single_HippoCell&branch=main",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/BuildOwn_Single_HippoCell&branch=main",
         "chooseModel": false
       },
       {
@@ -184,7 +184,7 @@
         "dataProtected": false,
         "chooseModel": true,
         "notebookPath": "Rebuild Single HippoCell - Config.ipynb",
-        "notebookRepoUrl": "https://github.com/eb-cls-jn/Rebuild_Single_HippoCell&branch=main"
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Rebuild_Single_HippoCell&branch=main"
       },
       {
         "id": "synapticPlasticity",
@@ -232,7 +232,7 @@
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyAnalysis/index.html",
         "chooseModel": true,
         "notebookPath": "Morphology_Analysis.ipynb",
-        "notebookRepoUrl": "https://github.com/eb-cls-jn/Morphology&branch=master"
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Morphology&branch=master"
       },
       {
         "id": "morphologyVisualization",
