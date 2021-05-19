@@ -54,7 +54,7 @@
         "experience": ["power"],
         "access": ["hpc"],
         "maturity": ["beta"],
-        "disabled": false,
+        "disabled": true,
         "implementation": "ipynb",
         "contributors": [
           {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
