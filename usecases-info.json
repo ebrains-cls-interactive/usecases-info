@@ -22,7 +22,7 @@
         },
         "dataProtected": true,
         "externalUrl": "https://hbp-bsp-hhnb.cineca.it/efelg/",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/FeatureExtraction/index.html"
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/cls-video-tutorial/NFE/NFE_video_tutorial_v01.mp4"
       },
       {
         "id": "synapticEventsFitting",
@@ -137,7 +137,6 @@
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/master/src/assets/images/hhnb.png"
         },
         "externalUrl": "https://ebrains.eu/service/hodgkin-huxley-neuron-builder",
-        "chooseModel": true,
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
       },
       {
