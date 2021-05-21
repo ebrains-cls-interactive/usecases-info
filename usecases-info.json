@@ -136,7 +136,7 @@
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/master/src/assets/images/hhnb.png"
         },
-        "externalUrl": "https://ebrains.eu/service/hodgkin-huxley-neuron-builder",
+        "externalUrl": "https://hbp-bsp-hhnb.cineca.it/hh-neuron-builder/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
       },
       {
