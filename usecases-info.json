@@ -215,7 +215,7 @@
           {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
         ],
         "maturity": ["beta"],
-        "experience": ["everybody"],
+        "experience": ["all"],
         "access": null,
         "disabled": false,
         "implementation": "ipynb",
