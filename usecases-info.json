@@ -220,7 +220,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/compartimental_objectives.png"
         },
         "dataProtected": true,
         "notebookPath": "Mono compartmental Cerebellar Granule cell optimization.ipynb",
