@@ -205,6 +205,27 @@
         "chooseModel": true,
         "notebookPath": "Synaptic plasticity.ipynb",
         "notebookRepoUrl": "&branch=main"
+      },
+      {
+        "id": "cerebellumGrCMono",
+        "title": "Mono compartmental Cerebellar Granule cell optimization",
+        "description": "Using BluePyOpt to optimize a single compartmental cerebellar granule cell. All the parameters, channels and morphology can be modified. This version runs directly on the Collaboratory and it is limited to small optimization.",
+        "contributors": [
+          {"name": "Stefano Masoli", "email": "stefano.masoli@unipv.it"},
+          {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
+        ],
+        "maturity": ["beta"],
+        "experience": ["all"],
+        "access": null,
+        "disabled": false,
+        "implementation": "ipynb",
+        "picture": {
+          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+        },
+        "dataProtected": true,
+        "notebookPath": "Mono compartmental Cerebellar Granule cell optimization.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_GrC_mono&branch=main",
+        "chooseModel": false
       }
     ]
   },
