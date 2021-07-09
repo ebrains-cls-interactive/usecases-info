@@ -196,7 +196,7 @@
         "maturity": ["beta"],
         "experience": ["all"],
         "access": null,
-        "disabled": true,
+        "disabled": false,
         "implementation": "ipynb",
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/Plasticity2.png"
@@ -204,7 +204,7 @@
         "dataProtected": false,
         "chooseModel": true,
         "notebookPath": "Synaptic plasticity.ipynb",
-        "notebookRepoUrl": "&branch=main"
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Plasticity&branch=main"
       },
       {
         "id": "cerebellumGrCMono",
