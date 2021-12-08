@@ -195,6 +195,15 @@
           "items": {
             "$ref": "#/definitions/usecase_group"
           }
+        },
+        "anchor": {
+          "type": "string"
+        },
+        "hasItems": {
+          "type": "boolean"
+        },
+        "isExpanded": {
+          "type": "boolean"
         }
       },
       "required": [
