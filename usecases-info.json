@@ -477,7 +477,7 @@
           }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/M1_2_min.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
         },
         "dataProtected": true,
         "notebookPath": "NetPyNE_CA3_network.ipynb",
