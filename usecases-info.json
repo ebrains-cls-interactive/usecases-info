@@ -481,7 +481,7 @@
         },
         "dataProtected": true,
         "notebookPath": "NetPyNE_CA3_network.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/netpyne_tutorials&branch=main",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/netpyne_tutorials&branch=master",
         "tutorial": null
       }
     ]
