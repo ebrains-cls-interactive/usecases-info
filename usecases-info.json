@@ -416,6 +416,31 @@
           "src": "https://raw.githubusercontent.com/antonelepfl/testvue/master/imgtest/rat-ca1-circuit.png"
         },
         "tutorial": null
+      },
+      {
+        "id": "netpynemultiscalebraincircuitmodels",
+        "title": "NetPyNE multiscale brain circuit models",
+        "description": "NetPyNE is an open-source Python package to facilitate the development, parallel simulation, analysis, and optimization of biological neuronal networks using the NEURON simulator (see http://netpyne.org). Here we include multiple tutorials and models developed in NetPyNE, including a large-scale and biologically realistic models of rodent motor (M1) thalamocortical circuits and a model of CA3 microcircuits showing cross-frequency coupling.",
+        "experience": ["all"],
+        "access": null,
+        "maturity": ["beta"],
+        "disabled": false,
+        "implementation": "ipynb",
+        "contributors": [
+          {"name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu"},
+          {"name": "Joe Graham", "email": "joe.w.graham@gmail.com"},
+          {"name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com"},
+          {"name": "Joao Moreira", "email": "joao.moreira@downstate.edu"},
+          {"name": "William Lytton", "email": "bill.lytton@downstate.edu"},
+          {"name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org"}
+        ],
+        "picture": {
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
+        },
+        "dataProtected": true,
+        "notebookPath": "NetPyNE_CA3_network.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/netpyne_tutorials&branch=master",
+        "tutorial": null
       }
     ]
   },
