@@ -4,6 +4,7 @@ This repository contains all the information related to the use cases that are s
 
 All the titles, images, descriptions, files, etc are described in [usecases-info.json](usecases-info.json)
 
+### For developers
 This information is used to build the (Wizard)[https://github.com/BlueBrain/bsp-usecase-wizard]
 When pushed to `develop` branch, you can see the results at https://bluebrain.github.io/bsp-usecase-wizard/dev/index.html
 When pushed to `main` branch, you can see the results at https://bluebrain.github.io/bsp-usecase-wizard/index.html
@@ -15,3 +16,5 @@ When pushed to `main` branch, you can see the results at https://bluebrain.githu
 ### How to:
 * Add new [use case](/documentation/add_new_usecase.md)
 
+### To format json
+`npx js-beautify -f usecases-info.json -r -k -s 2 -b preserve-inline -n`
