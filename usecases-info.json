@@ -377,25 +377,16 @@
         "id": "bluePairRecordingMouseO1",
         "title": "Mouse O1 - Scaffold Somatosensory Cortex Microcircuit for Mouse",
         "description": "This model combines specific datasets obtained for mouse somatosensory cortex, models of neuronal electrophysiology constrained to mouse primary visual cortex data from the Allen Cell Types Database, and datasets that were algorithmically transformed from rat to mouse.",
-        "experience": [ "all" ],
-        "maturity": [ "beta" ],
+        "experience": ["all"],
+        "maturity": ["beta"],
         "access": null,
         "dataProtected": false,
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          {
-            "name": "Michael W. Reimann",
-            "email": "michael.reimann@epfl.ch"
-          },
-          {
-            "name": "Eilif Muller",
-            "email": "eilif.mueller@epfl.ch"
-          },
-          {
-            "name": "Srikanth Ramaswamy",
-            "email": "srikanth.ramaswamy@epfl.ch"
-          }
+          {"name": "Michael W. Reimann", "email": "michael.reimann@epfl.ch"},
+          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"},
+          {"name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch"}
         ],
         "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
         "picture": {
@@ -407,33 +398,18 @@
         "id": "bluePairRecordingHippocampusCA1",
         "title": "Rat hippocampus CA1",
         "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
-        "experience": [ "all" ],
-        "maturity": [ "beta" ],
+        "experience": ["all"],
+        "maturity": ["beta"],
         "access": null,
         "dataProtected": false,
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          {
-            "name": "Szabolcs Káli",
-            "email": "kali@koki.hu"
-          },
-          {
-            "name": "Audrey Mercer",
-            "email": "a.mercer@ucl.ac.uk"
-          },
-          {
-            "name": "Michele Migliore",
-            "email": "michele.migliore@yale.edu"
-          },
-          {
-            "name": "Armando Romani",
-            "email": "armando.romani@epfl.ch"
-          },
-          {
-            "name": "Eilif Muller",
-            "email": "eilif.mueller@epfl.ch"
-          }
+          {"name": "Szabolcs Káli", "email": "kali@koki.hu"},
+          {"name": "Audrey Mercer", "email": "a.mercer@ucl.ac.uk"},
+          {"name": "Michele Migliore", "email": "michele.migliore@yale.edu"},
+          {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
+          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"}
         ],
         "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
         "picture": {
@@ -445,36 +421,18 @@
         "id": "netpynemultiscalebraincircuitmodels",
         "title": "NetPyNE multiscale brain circuit models",
         "description": "NetPyNE is an open-source Python package to facilitate the development, parallel simulation, analysis, and optimization of biological neuronal networks using the NEURON simulator (see http://netpyne.org). Here we include multiple tutorials and models developed in NetPyNE, including a large-scale and biologically realistic models of rodent motor (M1) thalamocortical circuits and a model of CA3 microcircuits showing cross-frequency coupling.",
-        "experience": [ "all" ],
+        "experience": ["all"],
         "access": null,
-        "maturity": [ "beta" ],
+        "maturity": ["beta"],
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {
-            "name": "Salvador Dura-Bernal",
-            "email": "salvador.dura-bernal@downstate.edu"
-          },
-          {
-            "name": "Joe Graham",
-            "email": "joe.w.graham@gmail.com"
-          },
-          {
-            "name": "Eugenio Urdapilleta",
-            "email": "urdapile@gmail.com"
-          },
-          {
-            "name": "Joao Moreira",
-            "email": "joao.moreira@downstate.edu"
-          },
-          {
-            "name": "William Lytton",
-            "email": "bill.lytton@downstate.edu"
-          },
-          {
-            "name": "Samuel Neymotin",
-            "email": "samuel.neymotin@nki.rfmh.org"
-          }
+          {"name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu"},
+          {"name": "Joe Graham", "email": "joe.w.graham@gmail.com"},
+          {"name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com"},
+          {"name": "Joao Moreira", "email": "joao.moreira@downstate.edu"},
+          {"name": "William Lytton", "email": "bill.lytton@downstate.edu"},
+          {"name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org"}
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
