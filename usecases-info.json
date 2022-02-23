@@ -3,7 +3,7 @@
     "title": "Trace Analysis",
     "id": "traceanalysis",
     "usecases": [
-      { 
+      {
         "id": "featureExtraction",
         "title": "Feature extraction",
         "description": "Extracts electrophysiological features; traces can be from NeuroInformatics Platform or uploaded",
@@ -13,15 +13,9 @@
         "disabled": false,
         "implementation": "webapp",
         "contributors": [
-          {
-            "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"
-          },
-          {
-            "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"
-          },
-          {
-            "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"
-          }
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/features.png"
