@@ -13,9 +13,9 @@
         "disabled": false,
         "implementation": "webapp",
         "contributors": [
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/features.png"
@@ -34,10 +34,10 @@
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
@@ -57,10 +57,10 @@
         "disabled": true,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
@@ -80,9 +80,9 @@
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
@@ -102,9 +102,9 @@
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
@@ -131,7 +131,7 @@
         "implementation": "webapp",
         "dataProtected": true,
         "contributors": [
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"}
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/antonelepfl/usecases/master/src/assets/images/hhnb.png"
@@ -144,10 +144,10 @@
         "title": "Build your own single hippocampal cell model using HBP data",
         "description": "Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "maturity": ["beta"],
         "experience": ["power"],
@@ -167,10 +167,10 @@
         "title": "Rebuild an existing single hippocampal cell model",
         "description": "Use the BluePyOpt to re-run an optimization with your choices for the parameters range",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it"},
-          {"name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "maturity": ["beta"],
         "experience": ["power"],
@@ -190,8 +190,8 @@
         "title": "Synaptic plasticity",
         "description": "Configure and test different synaptic plasticity models and protocols",
         "contributors": [
-          {"name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it"},
-          {"name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it"}
+          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
+          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -211,8 +211,8 @@
         "title": "Mono compartmental Cerebellar Granule cell optimization",
         "description": "Using BluePyOpt to optimize a single compartmental cerebellar granule cell. All the parameters, channels and morphology can be modified. This version runs directly on the Collaboratory and it is limited to small optimization.",
         "contributors": [
-          {"name": "Stefano Masoli", "email": "stefano.masoli@unipv.it"},
-          {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
+          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
+          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -232,8 +232,8 @@
         "title": "Multi compartmental Cerebellar Granule cell optimization",
         "description": "Using BluePyOpt to optimize a multcompartmental cerebellar granule cell composed by four dendrites, soma and a custom multi segmented axon. All the parameters, channels and morphology can be modified. This version runs directly on the collaboratory and it is limited to small optimizations",
         "contributors": [
-          {"name": "Stefano Masoli", "email": "stefano.masoli@unipv.it"},
-          {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
+          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
+          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -253,8 +253,8 @@
         "title": "Custom Axon Cerebellar Granule cell simulation",
         "description": "The purpose of this usecase it to explain how to setup an axon, built with BluePyOpt, containing an erbitrary number of sections. Afterward to simulate an actual cerebellar granule cell model with an axon composed by over 300 sections.",
         "contributors": [
-          {"name": "Stefano Masoli", "email": "stefano.masoli@unipv.it"},
-          {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
+          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
+          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -274,8 +274,8 @@
         "title": "Simulation and validation of a mouse Purkinje cell multicompartmental model",
         "description": "Simulation and validation of a mouse Purkinje cell multicompartmental model obtained from BluePyOpt optimizer. The purpose of this usecase it to extract, simulate and validated a series of physiologically correct Purkinje cells. This notebook runs directly on the Collab and does not require HPC resources",
         "contributors": [
-          {"name": "Stefano Masoli", "email": "stefano.masoli@unipv.it"},
-          {"name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it"}
+          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
+          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -301,7 +301,7 @@
         "title": "Morphology analysis",
         "description": "Performs analysis on a morphology with NeuroM",
         "contributors": [
-          {"name": "Liesbeth Vanherpe", "email": ""}
+          { "name": "Liesbeth Vanherpe", "email": "" }
         ],
         "maturity": ["beta"],
         "experience": ["power"],
@@ -322,7 +322,7 @@
         "title": "Morphology visualization",
         "description": "Display neuron morphology in 3D",
         "contributors": [
-          {"name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch"}
+          { "name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch" }
         ],
         "maturity": null,
         "access": null,
@@ -350,7 +350,7 @@
         "title": "Single cell in silico experiments under current clamp",
         "description": "",
         "contributors": [
-          {"name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch"}
+          { "name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch" }
         ],
         "maturity": ["beta"],
         "experience": ["all"],
@@ -384,9 +384,9 @@
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          {"name": "Michael W. Reimann", "email": "michael.reimann@epfl.ch"},
-          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"},
-          {"name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch"}
+          { "name": "Michael W. Reimann", "email": "michael.reimann@epfl.ch" },
+          { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" },
+          { "name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch" }
         ],
         "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
         "picture": {
@@ -405,11 +405,11 @@
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          {"name": "Szabolcs Káli", "email": "kali@koki.hu"},
-          {"name": "Audrey Mercer", "email": "a.mercer@ucl.ac.uk"},
-          {"name": "Michele Migliore", "email": "michele.migliore@yale.edu"},
-          {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
-          {"name": "Eilif Muller", "email": "eilif.mueller@epfl.ch"}
+          { "name": "Szabolcs Káli", "email": "kali@koki.hu" },
+          { "name": "Audrey Mercer", "email": "a.mercer@ucl.ac.uk" },
+          { "name": "Michele Migliore", "email": "michele.migliore@yale.edu" },
+          { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
+          { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" }
         ],
         "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
         "picture": {
@@ -427,12 +427,12 @@
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu"},
-          {"name": "Joe Graham", "email": "joe.w.graham@gmail.com"},
-          {"name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com"},
-          {"name": "Joao Moreira", "email": "joao.moreira@downstate.edu"},
-          {"name": "William Lytton", "email": "bill.lytton@downstate.edu"},
-          {"name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org"}
+          { "name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu" },
+          { "name": "Joe Graham", "email": "joe.w.graham@gmail.com" },
+          { "name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com" },
+          { "name": "Joao Moreira", "email": "joao.moreira@downstate.edu" },
+          { "name": "William Lytton", "email": "bill.lytton@downstate.edu" },
+          { "name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
@@ -463,9 +463,9 @@
             "implementation": "webapp",
             "disabled": false,
             "contributors": [
-              {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
-              {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
-              {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
+              { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
+              { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
+              { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
             "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
             "picture": {
@@ -484,9 +484,9 @@
             "implementation": "webapp",
             "disabled": false,
             "contributors": [
-              {"name": "Armando Romani", "email": "armando.romani@epfl.ch"},
-              {"name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch"},
-              {"name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch"}
+              { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
+              { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
+              { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
             "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
             "picture": {
