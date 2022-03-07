@@ -427,12 +427,12 @@
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          {"name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu"},
-          {"name": "Joe Graham", "email": "joe.w.graham@gmail.com"},
-          {"name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com"},
-          {"name": "Joao Moreira", "email": "joao.moreira@downstate.edu"},
-          {"name": "William Lytton", "email": "bill.lytton@downstate.edu"},
-          {"name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org"}
+          { "name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu" },
+          { "name": "Joe Graham", "email": "joe.w.graham@gmail.com" },
+          { "name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com" },
+          { "name": "Joao Moreira", "email": "joao.moreira@downstate.edu" },
+          { "name": "William Lytton", "email": "bill.lytton@downstate.edu" },
+          { "name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
