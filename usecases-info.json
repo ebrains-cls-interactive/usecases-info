@@ -402,7 +402,7 @@
         "maturity": ["ready"],
         "access": null,
         "dataProtected": false,
-        "implementation": "notebook",
+        "implementation": "ipynb",
         "disabled": false,
         "contributors": [
           { "name": "Robin GL De Schepper", "email": "robingilbert.deschepper@unipv.it" },
@@ -413,10 +413,11 @@
           { "name": "Claudia Casellato", "email": "claudia.casellato@unipv.it" },
           { "name": "Egidio D'Angelo", "email": "egidio.dangelo@unipv.it" },
         ],
-        "externalUrl": "https://cerebhub.eu/",
         "picture": {
           "src": "https://user-images.githubusercontent.com/28923979/157037116-925316c3-b6c2-4177-a4e3-2f89eefe7791.png"
         },
+        "notebookPath": "Cerebellar%20scaffold%20multicompartmental%20simulation.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_multicompartment_simulation&branch=main",
         "tutorial": null
       },
       {
