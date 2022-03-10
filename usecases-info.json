@@ -397,7 +397,7 @@
       {
         "id": "dbbsCerebellumMulticomp",
         "title": "Mouse cerebellum cortex",
-        "description": "",
+        "description": "Reconstruction and simulation of a biophysically detailed microcircuit of the cerebellar cortex, using the Brain Scaffold Builder (BSB), which provides an organized staged workflow, multiple strategies for cell placement and connectivity, a configuration system capable of including detailed neuronal and synaptic models and the support for multiple simulators with transparent parallel processing.",
         "experience": ["all"],
         "implementation": "ipynb",
         "maturity": null,
