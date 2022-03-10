@@ -399,10 +399,10 @@
         "title": "Mouse cerebellum cortex",
         "description": "",
         "experience": ["all"],
-        "maturity": ["ready"],
+        "implementation": "ipynb",
+        "maturity": null,
         "access": null,
         "dataProtected": false,
-        "implementation": "ipynb",
         "disabled": false,
         "contributors": [
           { "name": "Robin GL De Schepper", "email": "robingilbert.deschepper@unipv.it" },
@@ -411,7 +411,7 @@
           { "name": "Martina Rizza", "email": "martina.rizza@unipv.it" },
           { "name": "Alberto Antonietti", "email": "alberto-antonietti@unipv.it" },
           { "name": "Claudia Casellato", "email": "claudia.casellato@unipv.it" },
-          { "name": "Egidio D'Angelo", "email": "egidio.dangelo@unipv.it" },
+          { "name": "Egidio D'Angelo", "email": "egidio.dangelo@unipv.it" }
         ],
         "picture": {
           "src": "https://user-images.githubusercontent.com/28923979/157037116-925316c3-b6c2-4177-a4e3-2f89eefe7791.png"
