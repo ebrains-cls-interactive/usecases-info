@@ -395,6 +395,32 @@
         "tutorial": null
       },
       {
+        "id": "dbbsCerebellumMulticomp",
+        "title": "Mouse cerebellum cortex",
+        "description": "Reconstruction and simulation of a biophysically detailed microcircuit of the cerebellar cortex, using the Brain Scaffold Builder (BSB), which provides an organized staged workflow, multiple strategies for cell placement and connectivity, a configuration system capable of including detailed neuronal and synaptic models and the support for multiple simulators with transparent parallel processing.",
+        "experience": ["all"],
+        "implementation": "ipynb",
+        "maturity": null,
+        "access": null,
+        "dataProtected": false,
+        "disabled": false,
+        "contributors": [
+          { "name": "Robin GL De Schepper", "email": "robingilbert.deschepper@unipv.it" },
+          { "name": "Alice Geminiani", "email": "alice.geminiani@unipv.it" },
+          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
+          { "name": "Martina Rizza", "email": "martina.rizza@unipv.it" },
+          { "name": "Alberto Antonietti", "email": "alberto-antonietti@unipv.it" },
+          { "name": "Claudia Casellato", "email": "claudia.casellato@unipv.it" },
+          { "name": "Egidio D'Angelo", "email": "egidio.dangelo@unipv.it" }
+        ],
+        "picture": {
+          "src": "https://user-images.githubusercontent.com/28923979/157037116-925316c3-b6c2-4177-a4e3-2f89eefe7791.png"
+        },
+        "notebookPath": "Cerebellar%20scaffold%20multicompartmental%20simulation.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_multicompartment_simulation&branch=main",
+        "tutorial": null
+      },
+      {
         "id": "bluePairRecordingHippocampusCA1",
         "title": "Rat hippocampus CA1",
         "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
