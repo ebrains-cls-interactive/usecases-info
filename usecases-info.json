@@ -18,7 +18,7 @@
           { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/features.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/features.png"
         },
         "dataProtected": true,
         "externalUrl": "https://hbp-bsp-hhnb.cineca.it/efelg/",
@@ -40,7 +40,7 @@
           { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
         },
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting.ipynb",
@@ -63,7 +63,7 @@
           { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
         },
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting.ipynb",
@@ -85,7 +85,7 @@
           { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
         },
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting with user model.ipynb",
@@ -107,7 +107,7 @@
           { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/bestfit.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
         },
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting with user data.ipynb",
@@ -134,7 +134,7 @@
           { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/master/src/assets/images/hhnb.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/hhnb.png"
         },
         "externalUrl": "https://hbp-bsp-hhnb.cineca.it/hh-neuron-builder/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
@@ -155,7 +155,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/objectives.png"
         },
         "dataProtected": true,
         "notebookPath": "BuildOwn Single HippoCell - Config.ipynb",
@@ -178,7 +178,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/objectives.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/objectives.png"
         },
         "dataProtected": false,
         "chooseModel": true,
@@ -199,7 +199,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/Plasticity2.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/Plasticity2.png"
         },
         "dataProtected": false,
         "chooseModel": true,
@@ -220,7 +220,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/compartimental_objectives.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/compartimental_objectives.png"
         },
         "dataProtected": true,
         "notebookPath": "Mono compartmental Cerebellar Granule cell optimization.ipynb",
@@ -241,7 +241,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/compartimental_objectives.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/compartimental_objectives.png"
         },
         "dataProtected": true,
         "notebookPath": "Multi compartmental Cerebellar Granule cell optimization.ipynb",
@@ -262,7 +262,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/Granule_2019.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/Granule_2019.png"
         },
         "dataProtected": true,
         "notebookPath": "Custom Axon Cerebellar Granule cell simulation.ipynb",
@@ -283,7 +283,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/PC_usecase.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/PC_usecase.png"
         },
         "dataProtected": true,
         "notebookPath": "Purkinje cell simulation and validation.ipynb",
@@ -309,7 +309,7 @@
         "disabled": false,
         "implementation": "ipynb",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/morphology.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/morphology/morphology.png"
         },
         "dataProtected": false,
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyAnalysis/index.html",
@@ -330,7 +330,7 @@
         "disabled": false,
         "implementation": "webapp",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/morphology_3d.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/morphology/morphology_3d.png"
         },
         "dataProtected": true,
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyVisualization/index.html",
@@ -360,7 +360,7 @@
         "implementation": "webapp",
         "chooseModel": true,
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/l5pc_release_responses-eps.jpg"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellinsilicoexperiments/l5pc_release_responses-eps.jpg"
         },
         "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
@@ -390,7 +390,7 @@
         ],
         "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/testvue/master/imgtest/mouse_o1.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/mouse_o1.png"
         },
         "tutorial": null
       },
@@ -439,7 +439,7 @@
         ],
         "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
         "picture": {
-          "src": "https://raw.githubusercontent.com/antonelepfl/testvue/master/imgtest/rat-ca1-circuit.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/rat-ca1-circuit.png"
         },
         "tutorial": null
       },
@@ -461,7 +461,7 @@
           { "name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org" }
         ],
         "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/main/images/smallcircuitinsilicoexperiments/M1_2_min.png"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/M1_2_min.png"
         },
         "dataProtected": true,
         "notebookPath": "NetPyNE_CA3_network.ipynb",
@@ -495,7 +495,7 @@
             ],
             "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
             "picture": {
-              "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/hippocampusConnections.png"
+              "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/hippocampusConnections.png"
             },
             "tutorial": null
           },
@@ -516,7 +516,7 @@
             ],
             "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
             "picture": {
-              "src": "https://raw.githubusercontent.com/antonelepfl/usecases/dev/src/assets/images/ca1_microcircuit.png"
+              "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/ca1_microcircuit.png"
             },
             "tutorial": null
           }
