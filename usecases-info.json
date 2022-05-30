@@ -5,8 +5,8 @@
     "usecases": [
       {
         "id": "featureExtraction",
-        "title": "Feature extraction",
-        "description": "Extracts electrophysiological features; traces can be from NeuroInformatics Platform or uploaded",
+        "title": "NeuroFeatureExtract",
+        "description": "Extracts electrophysiological features; traces can be from HBP/EBRAINS or uploaded",
         "experience": ["all"],
         "maturity": ["beta"],
         "access": null,
