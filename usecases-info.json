@@ -467,6 +467,26 @@
         "notebookPath": "NetPyNE_CA3_network.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/netpyne_tutorials&branch=master",
         "tutorial": null
+      },
+      {
+        "id": "olfactoryBulb",
+        "title": "Olfactory Bulb Explorer",
+        "description": "Run a simulation of the olfactory bulb on HPC systems, visualize and download results",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "disabled": false,
+        "implementation": "webapp",
+        "contributors": [
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Joao Moreira", "email": "joao.moreira@downstate.edu" }
+        ],
+        "picture": {
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/olfactorybulb.png"
+        },
+        "dataProtected": true,
+        "externalUrl": "https://olfactory-bulb.cineca.it/",
+        "tutorial": null
       }
     ]
   },
