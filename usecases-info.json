@@ -444,9 +444,9 @@
         "tutorial": null
       },
       {
-        "id": "netpynemultiscalebraincircuitmodels",
-        "title": "NetPyNE multiscale brain circuit models",
-        "description": "NetPyNE is an open-source Python package to facilitate the development, parallel simulation, analysis, and optimization of biological neuronal networks using the NEURON simulator (see http://netpyne.org). Here we include multiple tutorials and models developed in NetPyNE, including a large-scale and biologically realistic models of rodent motor (M1) thalamocortical circuits and a model of CA3 microcircuits showing cross-frequency coupling.",
+        "id": "multiscalebraincircuitmodelsofm1andca3",
+        "title": "Multiscale brain circuit models of M1 and CA3",
+        "description": "Large-scale and biologically realistic models of rodent motor (M1) thalamocortical circuits and a model of CA3 microcircuits showing cross-frequency coupling. Models were developed using the NetPyNE multiscale modeling tool. ",
         "experience": ["all"],
         "access": null,
         "maturity": ["beta"],
