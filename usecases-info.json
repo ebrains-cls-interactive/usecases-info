@@ -543,5 +543,50 @@
         ]
       }
     ]
-  }
+  },
+    {
+    "title": "Small Circuit InSilico Experiments",
+    "id": "smallcircuitinsilicoexperiments",
+    "usecases": [
+      {
+        "id": "striatum_scaffold_create",
+        "title": "Striatum Scaffold model (create)",
+        "description": "This notebook creates a scaffold model for the mouse striatum microcircuit. The neuron models are based on reconstructed morphologies and electrophysiological experiments optimised using BluePyOpt. The neurons are placed in a volume, and the synapses are placed in locations where the axons and dendrites overlap. Pair wise connectivity matches experimental data.",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "dataProtected": false,
+        "implementation": "ipynb",
+        "disabled": false,
+        "contributors": [
+          { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
+          { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
+        ],
+        "externalUrl": "https://github.com/hjorthmedh/Snudda",
+          "tutorial": null,
+        "notebookPath": "striatum_example.ipynb",
+        "notebookRepoUrl": "https://lab.ch.ebrains.eu/user/hjorth/lab/workspaces/auto-r/tree/shared/Striatum%20Scaffold%20Model"
+      },
+      {
+        "id": "striatum_scaffold_simulate",
+        "title": "Striatum Scaffold model (simulate)",
+        "description": "This notebook simulates a scaffold model for the mouse striatum microcircuit. This notebook uses the microcircuit created by the Striatum Scaffold model (create) notebook.",
+        "experience": ["all"],
+        "maturity": ["beta"],
+        "access": null,
+        "dataProtected": false,
+        "implementation": "ipynb",
+        "disabled": false,
+        "contributors": [
+          { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
+          { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
+        ],
+        "externalUrl": "https://github.com/hjorthmedh/Snudda",
+          "tutorial": null,
+        "notebookPath": "striatum_example_simulate.ipynb",
+        "notebookRepoUrl": "https://lab.ch.ebrains.eu/user/hjorth/lab/workspaces/auto-r/tree/shared/Striatum%20Scaffold%20Model"
+      }
+    ]
+	
+    }
 ]
