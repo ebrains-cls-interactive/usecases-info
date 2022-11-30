@@ -503,7 +503,7 @@
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
         ],
         "picture": {
-          "src": "... "
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/striatum-scaffold.png"
         },
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
@@ -525,7 +525,7 @@
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
         ],
         "picture": {
-          "src": "..."
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/striatum-scaffold.png"
         },
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
