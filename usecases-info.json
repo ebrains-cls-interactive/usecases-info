@@ -502,6 +502,9 @@
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
         ],
+        "picture": {
+          "src": "... "
+        },
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
         "notebookPath": "striatum_example.ipynb",
@@ -521,6 +524,9 @@
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
         ],
+        "picture": {
+          "src": "..."
+        },
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
         "notebookPath": "striatum_example_simulate.ipynb",
