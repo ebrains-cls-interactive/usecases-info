@@ -557,7 +557,7 @@
               { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
               { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
-            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
+            "externalUrl": "https://bluenaas-brain-area.apps.tc.humanbrainproject.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
             "picture": {
               "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/hippocampusConnections.png"
             },
@@ -578,7 +578,7 @@
               { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
               { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
-            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
+            "externalUrl": "https://bluenaas-brain-area.apps.tc.humanbrainproject.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
             "picture": {
               "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/ca1_microcircuit.png"
             },
