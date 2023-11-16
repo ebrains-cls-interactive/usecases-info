@@ -388,7 +388,7 @@
           { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" },
           { "name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch" }
         ],
-        "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
+        "externalUrl": "https://bluenaas-small-area.apps.tc.humanbrainproject.eu/circuits/mouse-sscx",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/mouse_o1.png"
         },
@@ -437,7 +437,7 @@
           { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
           { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" }
         ],
-        "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
+        "externalUrl": "https://bluenaas-small-area.apps.tc.humanbrainproject.eu/circuits/rat-ca1",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/rat-ca1-circuit.png"
         },
