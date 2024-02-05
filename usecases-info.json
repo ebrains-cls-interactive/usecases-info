@@ -21,7 +21,7 @@
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/features.png"
         },
         "dataProtected": true,
-        "externalUrl": "https://hbp-bsp-hhnb.cineca.it/efelg/",
+        "externalUrl": "https://hhnb.ebrains-italy.eu/efelg/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/cls-video-tutorial/NFE/NFE_video_tutorial_v01.mp4"
       },
       {
@@ -136,7 +136,7 @@
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/hhnb.png"
         },
-        "externalUrl": "https://hbp-bsp-hhnb.cineca.it/hh-neuron-builder/",
+        "externalUrl": "https://hhnb.ebrains-italy.eu/hh-neuron-builder/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
       },
       {
@@ -485,7 +485,7 @@
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/olfactorybulb.png"
         },
         "dataProtected": true,
-        "externalUrl": "https://olfactory-bulb.cineca.it/",
+        "externalUrl": "https://olfactory-bulb.ebrains-italy.eu/",
         "tutorial": null
       },
       {
