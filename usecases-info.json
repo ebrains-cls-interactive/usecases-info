@@ -358,14 +358,11 @@
         "disabled": false,
         "dataProtected": false,
         "implementation": "webapp",
-        "chooseModel": true,
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellinsilicoexperiments/l5pc_release_responses-eps.jpg"
         },
         "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
-        "externalUrlModelPlaceholder": "{EXTERNAL_URL}/#/url/{TRIMMED_SOURCE_PATH}",
-        "maxModelSelection": 1
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html"
       }
     ]
   },
