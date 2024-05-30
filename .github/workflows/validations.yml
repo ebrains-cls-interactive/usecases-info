@@ -13,10 +13,10 @@ jobs:
         with:
           node-version: '16'
       - name: Run validation schema
-        run: npx ajv-cli validate -s usecases-info.schema.json -d usecases-info.json
+        run: npx --yes ajv-cli validate -s usecases-info.schema.json -d usecases-info.json
       - name: Run linting
         run: |
-          npx js-beautify -f usecases-info.json -k -s 2 -b preserve-inline -n > usecases-info-formatted.json
+          npx --yes js-beautify -f usecases-info.json -k -s 2 -b preserve-inline -n > usecases-info-formatted.json
           cmp usecases-info.json usecases-info-formatted.json > diff.txt
           if [ -s diff.txt ]; then
             echo "Lintting failed. Run command on README.md to fix it and commit changes."
