@@ -335,7 +335,7 @@
         "dataProtected": true,
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyVisualization/index.html",
         "chooseModel": true,
-        "externalUrl": "https://morph-view.apps.hbp.eu",
+        "externalUrl": "https://bluenaas-morph-viewer.apps.ebrains.eu",
         "externalUrlModelPlaceholder": "{EXTERNAL_URL}/?model={MORPHOLOGY_URL}",
         "maxModelSelection": 1
       }
@@ -358,11 +358,14 @@
         "disabled": false,
         "dataProtected": false,
         "implementation": "webapp",
+        "chooseModel": true,
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellinsilicoexperiments/l5pc_release_responses-eps.jpg"
         },
-        "externalUrl": "https://blue-naas-bsp-epfl.apps.hbp.eu",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html"
+        "externalUrl": "https://bluenaas-single-cell.apps.ebrains.eu",
+        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
+        "externalUrlModelPlaceholder": "{EXTERNAL_URL}/#/url/{TRIMMED_SOURCE_PATH}",
+        "maxModelSelection": 1
       }
     ]
   },
@@ -385,7 +388,7 @@
           { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" },
           { "name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch" }
         ],
-        "externalUrl": "https://bsp-mouse-o1.humanbrainproject.eu",
+        "externalUrl": "https://bluenaas-small-area.apps.ebrains.eu/circuits/mouse-sscx",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/mouse_o1.png"
         },
@@ -434,7 +437,7 @@
           { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
           { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" }
         ],
-        "externalUrl": "https://bsp-rat-ca1.humanbrainproject.eu",
+        "externalUrl": "https://bluenaas-small-area.apps.ebrains.eu/circuits/rat-ca1",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/rat-ca1-circuit.png"
         },
@@ -554,7 +557,7 @@
               { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
               { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
-            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
+            "externalUrl": "https://bluenaas-brain-area.apps.ebrains.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
             "picture": {
               "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/hippocampusConnections.png"
             },
@@ -575,7 +578,7 @@
               { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
               { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
             ],
-            "externalUrl": "https://simulation-launcher-bsp-epfl.apps.hbp.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
+            "externalUrl": "https://bluenaas-brain-area.apps.ebrains.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
             "picture": {
               "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/ca1_microcircuit.png"
             },
