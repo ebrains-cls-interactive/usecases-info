@@ -69,51 +69,7 @@
         "notebookPath": "Synaptic events fitting.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Simplified_Synaptic_Events_Fitting&branch=main",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
-      },
-      {
-        "id": "synapticEventsFittingUserModel",
-        "title": "Synaptic events fitting with user model",
-        "description": "Fitting synaptic events using data in NeuroInformatics Platform and user's model",
-        "experience": ["experts"],
-        "access": ["hpc"],
-        "maturity": ["beta"],
-        "disabled": false,
-        "implementation": "ipynb",
-        "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
-        ],
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Synaptic events fitting with user model.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Events_Fitting_User_Model&branch=main",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFittingWithUserModel/index.html"
-      },
-      {
-        "id": "synapticEventsFittingUserData",
-        "title": "Synaptic events fitting with user data",
-        "description": "Fitting user's synaptic events data with model from NeuroInformatics Platform",
-        "experience": ["experts"],
-        "access": ["hpc"],
-        "maturity": ["beta"],
-        "disabled": false,
-        "implementation": "ipynb",
-        "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
-        ],
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Synaptic events fitting with user data.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Events_Fitting_User_Data&branch=main",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFittingWithUserData/index.html"
-      }
+      }      
     ]
   },
   {
@@ -138,53 +94,7 @@
         },
         "externalUrl": "https://hhnb.ebrains-italy.eu/hh-neuron-builder/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
-      },
-      {
-        "id": "buildHippocampalCellModel",
-        "title": "Build your own single hippocampal cell model using HBP data",
-        "description": "Use the BluePyOpt to run an optimization choosing from HBP data for morphology, channel kinetics, features, and parameters.",
-        "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["power"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/objectives.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "BuildOwn Single HippoCell - Config.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/BuildOwn_Single_HippoCell&branch=main",
-        "chooseModel": false
-      },
-      {
-        "id": "rebuildHippocampalCellModel",
-        "title": "Rebuild an existing single hippocampal cell model",
-        "description": "Use the BluePyOpt to re-run an optimization with your choices for the parameters range",
-        "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["power"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/objectives.png"
-        },
-        "dataProtected": false,
-        "chooseModel": true,
-        "notebookPath": "Rebuild Single HippoCell - Config.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Rebuild_Single_HippoCell&branch=main"
-      },
+      },      
       {
         "id": "synapticPlasticity",
         "title": "Synaptic plasticity",
@@ -205,118 +115,13 @@
         "chooseModel": true,
         "notebookPath": "Synaptic plasticity.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Plasticity&branch=main"
-      },
-      {
-        "id": "cerebellumGrCMono",
-        "title": "Mono compartmental Cerebellar Granule cell optimization",
-        "description": "Using BluePyOpt to optimize a single compartmental cerebellar granule cell. All the parameters, channels and morphology can be modified. This version runs directly on the Collaboratory and it is limited to small optimization.",
-        "contributors": [
-          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
-          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["all"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/compartimental_objectives.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Mono compartmental Cerebellar Granule cell optimization.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_GrC_mono&branch=main",
-        "chooseModel": false
-      },
-      {
-        "id": "cerebellumGrCMulti",
-        "title": "Multi compartmental Cerebellar Granule cell optimization",
-        "description": "Using BluePyOpt to optimize a multcompartmental cerebellar granule cell composed by four dendrites, soma and a custom multi segmented axon. All the parameters, channels and morphology can be modified. This version runs directly on the collaboratory and it is limited to small optimizations",
-        "contributors": [
-          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
-          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["all"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/compartimental_objectives.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Multi compartmental Cerebellar Granule cell optimization.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_GrC_multi&branch=main",
-        "chooseModel": false
-      },
-      {
-        "id": "cerebellumGrCMultiaxon",
-        "title": "Custom Axon Cerebellar Granule cell simulation",
-        "description": "The purpose of this usecase it to explain how to setup an axon, built with BluePyOpt, containing an erbitrary number of sections. Afterward to simulate an actual cerebellar granule cell model with an axon composed by over 300 sections.",
-        "contributors": [
-          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
-          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["all"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/Granule_2019.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Custom Axon Cerebellar Granule cell simulation.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_GrC_axon_multi&branch=main",
-        "chooseModel": false
-      },
-      {
-        "id": "cerebellumPurkinje",
-        "title": "Simulation and validation of a mouse Purkinje cell multicompartmental model",
-        "description": "Simulation and validation of a mouse Purkinje cell multicompartmental model obtained from BluePyOpt optimizer. The purpose of this usecase it to extract, simulate and validated a series of physiologically correct Purkinje cells. This notebook runs directly on the Collab and does not require HPC resources",
-        "contributors": [
-          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
-          { "name": "Martina Rizza", "email": "martinafrancesca.rizza@unipv.it" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["all"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/PC_usecase.png"
-        },
-        "dataProtected": true,
-        "notebookPath": "Purkinje cell simulation and validation.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_Purkinje_muti&branch=main",
-        "chooseModel": false
       }
     ]
   },
   {
     "title": "Morphology",
     "id": "morphology",
-    "usecases": [
-      {
-        "id": "morphologyAnalysis",
-        "title": "Morphology analysis",
-        "description": "Performs analysis on a morphology with NeuroM",
-        "contributors": [
-          { "name": "Liesbeth Vanherpe", "email": "" }
-        ],
-        "maturity": ["beta"],
-        "experience": ["power"],
-        "access": null,
-        "disabled": false,
-        "implementation": "ipynb",
-        "picture": {
-          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/morphology/morphology.png"
-        },
-        "dataProtected": false,
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyAnalysis/index.html",
-        "chooseModel": true,
-        "notebookPath": "Morphology_Analysis.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Morphology&branch=master"
-      },
+    "usecases": [      
       {
         "id": "morphologyVisualization",
         "title": "Morphology visualization",
@@ -392,32 +197,6 @@
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/mouse_o1.png"
         },
-        "tutorial": null
-      },
-      {
-        "id": "dbbsCerebellumMulticomp",
-        "title": "Mouse cerebellum cortex",
-        "description": "Reconstruction and simulation of a biophysically detailed microcircuit of the cerebellar cortex, using the Brain Scaffold Builder (BSB), which provides an organized staged workflow, multiple strategies for cell placement and connectivity, a configuration system capable of including detailed neuronal and synaptic models and the support for multiple simulators with transparent parallel processing.",
-        "experience": ["all"],
-        "implementation": "ipynb",
-        "maturity": null,
-        "access": null,
-        "dataProtected": false,
-        "disabled": false,
-        "contributors": [
-          { "name": "Robin GL De Schepper", "email": "robingilbert.deschepper@unipv.it" },
-          { "name": "Alice Geminiani", "email": "alice.geminiani@unipv.it" },
-          { "name": "Stefano Masoli", "email": "stefano.masoli@unipv.it" },
-          { "name": "Martina Rizza", "email": "martina.rizza@unipv.it" },
-          { "name": "Alberto Antonietti", "email": "alberto-antonietti@unipv.it" },
-          { "name": "Claudia Casellato", "email": "claudia.casellato@unipv.it" },
-          { "name": "Egidio D'Angelo", "email": "egidio.dangelo@unipv.it" }
-        ],
-        "picture": {
-          "src": "https://user-images.githubusercontent.com/28923979/157037116-925316c3-b6c2-4177-a4e3-2f89eefe7791.png"
-        },
-        "notebookPath": "Cerebellar%20scaffold%20multicompartmental%20simulation.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Cerebellum_multicompartment_simulation&branch=main",
         "tutorial": null
       },
       {
@@ -531,60 +310,6 @@
         "tutorial": null,
         "notebookPath": "striatum_example_simulate.ipynb",
         "notebookRepoUrl": "https://lab.ch.ebrains.eu/user/hjorth/lab/workspaces/auto-r/tree/shared/Striatum%20Scaffold%20Model"
-      }
-    ]
-  },
-  {
-    "title": "Brain Area Circuit InSilico Experiments",
-    "id": "brainareacircuitinsilicoexperiments",
-    "usecases": [],
-    "groups": [
-      {
-        "title": "Hippocampus",
-        "items": [
-          {
-            "id": "simLauncherCA1",
-            "title": "Configure and run a rat hippocampus CA1 region using preconfigured HBP model and data",
-            "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
-            "experience": ["all"],
-            "maturity": ["beta"],
-            "access": null,
-            "dataProtected": false,
-            "implementation": "webapp",
-            "disabled": false,
-            "contributors": [
-              { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
-              { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
-              { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
-            ],
-            "externalUrl": "https://bluenaas-brain-area.apps.ebrains.eu/index.html#/circuits/hippo_hbp_sa_full_ca1",
-            "picture": {
-              "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/hippocampusConnections.png"
-            },
-            "tutorial": null
-          },
-          {
-            "id": "simLauncherMicrocircuit",
-            "title": "Configure and run a hippocampus microcircuit",
-            "description": "A microcircuit of detailed neuron models.",
-            "experience": ["all"],
-            "maturity": ["beta"],
-            "access": null,
-            "dataProtected": false,
-            "implementation": "webapp",
-            "disabled": false,
-            "contributors": [
-              { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
-              { "name": "Stefano Antonel", "email": "stefano.antonel@epfl.ch" },
-              { "name": "Michael Gevaert", "email": "michael.gevaert@epfl.ch" }
-            ],
-            "externalUrl": "https://bluenaas-brain-area.apps.ebrains.eu/index.html#/circuits/hippo_mooc_sa_microcircuit",
-            "picture": {
-              "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/brainareacircuitinsilicoexperiments/ca1_microcircuit.png"
-            },
-            "tutorial": null
-          }
-        ]
       }
     ]
   }
