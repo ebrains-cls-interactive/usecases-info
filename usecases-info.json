@@ -69,7 +69,7 @@
         "notebookPath": "Synaptic events fitting.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Simplified_Synaptic_Events_Fitting&branch=main",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
-      }      
+      }
     ]
   },
   {
@@ -94,7 +94,7 @@
         },
         "externalUrl": "https://hhnb.ebrains-italy.eu/hh-neuron-builder/",
         "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
-      },      
+      },
       {
         "id": "synapticPlasticity",
         "title": "Synaptic plasticity",
@@ -121,7 +121,7 @@
   {
     "title": "Morphology",
     "id": "morphology",
-    "usecases": [      
+    "usecases": [
       {
         "id": "morphologyVisualization",
         "title": "Morphology visualization",
