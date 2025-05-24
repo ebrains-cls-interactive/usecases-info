@@ -22,7 +22,7 @@
         },
         "dataProtected": true,
         "externalUrl": "https://hhnb.ebrains-italy.eu/efelg/",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/cls-video-tutorial/NFE/NFE_video_tutorial_v01.mp4"
+        "tutorial": "https://rgw.cscs.ch/ebrains:web-resources-bsp/cls-video-tutorial/NFE/NFE_video_tutorial_v01.mp4"
       },
       {
         "id": "synapticEventsFitting",
@@ -45,7 +45,7 @@
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Events_Fitting&branch=main",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
+        "tutorial": null
       },
       {
         "id": "simplifiedSynapticEventsFitting",
@@ -68,7 +68,7 @@
         "dataProtected": true,
         "notebookPath": "Synaptic events fitting.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Simplified_Synaptic_Events_Fitting&branch=main",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SynapticEventsFitting/index.html"
+        "tutorial": null
       }
     ]
   },
@@ -93,7 +93,7 @@
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/hhnb.png"
         },
         "externalUrl": "https://hhnb.ebrains-italy.eu/hh-neuron-builder/",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/HodgkinHuxleyNeuronBuilder/index.html"
+        "tutorial": "https://data-proxy.ebrains.eu/api/v1/buckets/pc0a33-web-resources-bsp/cls-video-tutorial/HHNB/HHNB.mp4"
       },
       {
         "id": "synapticPlasticity",
@@ -138,7 +138,7 @@
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/morphology/morphology_3d.png"
         },
         "dataProtected": true,
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/MorphologyVisualization/index.html",
+        "tutorial": null,
         "chooseModel": true,
         "externalUrl": "https://bluenaas-morph-viewer.apps.ebrains.eu",
         "externalUrlModelPlaceholder": "{EXTERNAL_URL}/?model={MORPHOLOGY_URL}",
@@ -168,7 +168,7 @@
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellinsilicoexperiments/l5pc_release_responses-eps.jpg"
         },
         "externalUrl": "https://bluenaas-single-cell.apps.ebrains.eu",
-        "tutorial": "https://object.cscs.ch/v1/AUTH_c0a333ecf7c045809321ce9d9ecdfdea/web-resources-bsp/bsp-video-tutorials/SingleCellInSilicoExperimentsUnderCurrentClamp/index.html",
+        "tutorial": null,
         "externalUrlModelPlaceholder": "{EXTERNAL_URL}/#/url/{TRIMMED_SOURCE_PATH}",
         "maxModelSelection": 1
       }
