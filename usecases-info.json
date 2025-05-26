@@ -31,7 +31,7 @@
         "experience": ["power"],
         "access": ["hpc"],
         "maturity": ["beta"],
-        "disabled": false,
+        "disabled": true,
         "implementation": "ipynb",
         "contributors": [
           { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
@@ -106,7 +106,7 @@
         "maturity": ["beta"],
         "experience": ["all"],
         "access": null,
-        "disabled": false,
+        "disabled": true,
         "implementation": "ipynb",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/Plasticity2.png"
@@ -254,7 +254,7 @@
         "experience": ["all"],
         "maturity": ["beta"],
         "access": null,
-        "disabled": false,
+        "disabled": true,
         "implementation": "webapp",
         "contributors": [
           { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
@@ -276,7 +276,7 @@
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
-        "disabled": false,
+        "disabled": true,
         "contributors": [
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
@@ -298,7 +298,7 @@
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
-        "disabled": false,
+        "disabled": true,
         "contributors": [
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
