@@ -287,7 +287,7 @@
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
         "notebookPath": "striatum_example.ipynb",
-        "notebookRepoUrl": "https://lab.ch.ebrains.eu/user/hjorth/lab/workspaces/auto-r/tree/shared/Striatum%20Scaffold%20Model"
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/striatum_scaffold_create&branch=main"
       },
       {
         "id": "striatum_scaffold_simulate",
@@ -309,7 +309,7 @@
         "externalUrl": "https://github.com/hjorthmedh/Snudda",
         "tutorial": null,
         "notebookPath": "striatum_example_simulate.ipynb",
-        "notebookRepoUrl": "https://lab.ch.ebrains.eu/user/hjorth/lab/workspaces/auto-r/tree/shared/Striatum%20Scaffold%20Model"
+        "notebookRepoUrl": "* https://github.com/ebrains-cls-interactive/striatum_scaffold_simulate&branch=main"
       }
     ]
   }
