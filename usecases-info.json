@@ -276,7 +276,7 @@
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
-        "disabled": true,
+        "disabled": false,
         "contributors": [
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
@@ -298,7 +298,7 @@
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
-        "disabled": true,
+        "disabled": false,
         "contributors": [
           { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
           { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
