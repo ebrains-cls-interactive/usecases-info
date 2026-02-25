@@ -134,7 +134,7 @@
         "dataProtected": false,
         "tutorial": null,
         "picture": {
-          "src": "https://github.com/ebrains-cls-interactive/Dopamine_STDP_modulation/blob/main/icon.svg"
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/Dopamine_STDP_modulation/refs/heads/main/icon.svg"
         },
         "notebookPath": "Dopamine STDP modulation.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Dopamine_STDP_modulation&branch=main" 
