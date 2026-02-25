@@ -87,7 +87,8 @@
         "implementation": "webapp",
         "dataProtected": true,
         "contributors": [
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" }
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/hhnb.png"
@@ -115,6 +116,29 @@
         "chooseModel": true,
         "notebookPath": "Synaptic plasticity.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Plasticity&branch=main"
+      },
+      {
+        "id": "Dopamine_STDP_modulation",
+        "title": "Dopamine STDP modulation",
+        "description": "NEURON CA1 pyramidal cell with AMPA/NMDA synapses and spike-time-dependent plasticity; dopamine facilitates LTP and reduces excitability.",
+        "contributors": [
+          { "name": "Enrico Manara", "email": "enrico.manara@ibf.cnr.it" },
+          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
+          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" }
+        ],
+        "experience": ["power user"],
+        "access": null,
+        "maturity": ["beta"],
+        "disabled": false,
+        "implementation": "ipynb",
+        "dataProtected": false,
+        "tutorial": null,
+        "picture": {
+          "src": "https://github.com/ebrains-cls-interactive/Dopamine_STDP_modulation/blob/main/icon.svg"
+        },
+        "externalUrl": null,
+        "notebookPath": "Dopamine STDP modulation.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Dopamine_STDP_modulation&branch=main" 
       }
     ]
   },
