@@ -126,7 +126,7 @@
           { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
           { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" }
         ],
-        "experience": ["power user"],
+        "experience": ["power"],
         "access": null,
         "maturity": ["beta"],
         "disabled": false,
