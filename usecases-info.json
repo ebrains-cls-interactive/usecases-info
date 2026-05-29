@@ -545,10 +545,10 @@
           }
         ],
         "maturity": [
-          "beta"
+          "experimental"
         ],
         "implementation": "ipynb",
-        "disable": false,
+        "disabled": false,
         "experience": [
           "power"
         ],
