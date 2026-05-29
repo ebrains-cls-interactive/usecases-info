@@ -561,8 +561,7 @@
           "src": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC/blob/687535ae4bca35037c19068921a1c2ecea7807ae/PACSystem.png"
         },
         "notebookPath": "tgp_ui.ipynb",
-        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC.git&branch=main",
-        "chooseModel": false
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC.git&branch=main"
       }
     ]
   }
