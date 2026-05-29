@@ -7,15 +7,28 @@
         "id": "featureExtraction",
         "title": "NeuroFeatureExtract",
         "description": "Extracts electrophysiological features; traces can be from HBP/EBRAINS or uploaded",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "disabled": false,
         "implementation": "webapp",
         "contributors": [
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          },
+          {
+            "name": "Dario Curreri",
+            "email": "dario.curreri@ibf.cnr.it"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/features.png"
@@ -28,16 +41,34 @@
         "id": "synapticEventsFitting",
         "title": "Synaptic events fitting",
         "description": "Fitting synaptic events using data and model in NeuroInformatics Platform",
-        "experience": ["power"],
-        "access": ["hpc"],
-        "maturity": ["beta"],
-        "disabled": true,
+        "experience": [
+          "power"
+        ],
+        "access": [
+          "hpc"
+        ],
+        "maturity": [
+          "beta"
+        ],
+        "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
+          {
+            "name": "Carmen Alina Lupascu",
+            "email": "carmen.lupascu@ibf.cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          },
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Dario Curreri",
+            "email": "dario.curreri@ibf.cnr.it"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
@@ -51,16 +82,34 @@
         "id": "simplifiedSynapticEventsFitting",
         "title": "Simplified synaptic events fitting",
         "description": "Fitting synaptic events using data and model in NeuroInformatics Platform",
-        "experience": ["power"],
-        "access": ["hpc"],
-        "maturity": ["beta"],
+        "experience": [
+          "power"
+        ],
+        "access": [
+          "hpc"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "disabled": true,
         "implementation": "ipynb",
         "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Roberto Smiriglia", "email": "roberto.smiriglia@ibf.cnr.it" },
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
+          {
+            "name": "Carmen Alina Lupascu",
+            "email": "carmen.lupascu@ibf.cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          },
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Dario Curreri",
+            "email": "dario.curreri@ibf.cnr.it"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/traceanalysis/bestfit.png"
@@ -80,14 +129,27 @@
         "id": "hodgkinHuxleyNeuronBuilder",
         "title": "Hodgkin-Huxley Neuron Builder",
         "description": "Use the eFEL and BluePyOpt libraries to go through the entire neuron builder pipeline: 1) feature extraction, 2) model optimization, 3) simulation.",
-        "experience": ["all"],
-        "access": ["hpc"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "access": [
+          "hpc"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "disabled": false,
         "implementation": "webapp",
         "dataProtected": true,
         "contributors": [
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" }
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/hhnb.png"
@@ -100,11 +162,21 @@
         "title": "Synaptic plasticity",
         "description": "Configure and test different synaptic plasticity models and protocols",
         "contributors": [
-          { "name": "Carmen Alina Lupascu", "email": "carmen.lupascu@ibf.cnr.it" },
-          { "name": "Dario Curreri", "email": "dario.curreri@ibf.cnr.it" }
+          {
+            "name": "Carmen Alina Lupascu",
+            "email": "carmen.lupascu@ibf.cnr.it"
+          },
+          {
+            "name": "Dario Curreri",
+            "email": "dario.curreri@ibf.cnr.it"
+          }
         ],
-        "maturity": ["beta"],
-        "experience": ["all"],
+        "maturity": [
+          "beta"
+        ],
+        "experience": [
+          "all"
+        ],
         "access": null,
         "disabled": true,
         "implementation": "ipynb",
@@ -115,6 +187,41 @@
         "chooseModel": true,
         "notebookPath": "Synaptic plasticity.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Synaptic_Plasticity&branch=main"
+      },
+      {
+        "id": "Dopamine_STDP_modulation",
+        "title": "Dopamine STDP modulation",
+        "description": "NEURON CA1 pyramidal cell with AMPA/NMDA synapses and spike-time-dependent plasticity; dopamine facilitates LTP and reduces excitability.",
+        "contributors": [
+          {
+            "name": "Enrico Manara",
+            "email": "enrico.manara@ibf.cnr.it"
+          },
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          }
+        ],
+        "experience": [
+          "power"
+        ],
+        "access": null,
+        "maturity": [
+          "beta"
+        ],
+        "disabled": false,
+        "implementation": "ipynb",
+        "dataProtected": false,
+        "tutorial": null,
+        "picture": {
+          "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/Dopamine_STDP_modulation/refs/heads/main/icon.svg"
+        },
+        "notebookPath": "Dopamine STDP modulation.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/Dopamine_STDP_modulation&branch=main"
       }
     ]
   },
@@ -127,11 +234,16 @@
         "title": "Morphology visualization",
         "description": "Display neuron morphology in 3D",
         "contributors": [
-          { "name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch" }
+          {
+            "name": "Genrich Ivaska",
+            "email": "genrich.ivaska@epfl.ch"
+          }
         ],
         "maturity": null,
         "access": null,
-        "experience": ["all"],
+        "experience": [
+          "all"
+        ],
         "disabled": false,
         "implementation": "webapp",
         "picture": {
@@ -155,10 +267,17 @@
         "title": "Single cell in silico experiments under current clamp",
         "description": "",
         "contributors": [
-          { "name": "Genrich Ivaska", "email": "genrich.ivaska@epfl.ch" }
+          {
+            "name": "Genrich Ivaska",
+            "email": "genrich.ivaska@epfl.ch"
+          }
         ],
-        "maturity": ["beta"],
-        "experience": ["all"],
+        "maturity": [
+          "beta"
+        ],
+        "experience": [
+          "all"
+        ],
         "access": null,
         "disabled": false,
         "dataProtected": false,
@@ -182,16 +301,29 @@
         "id": "bluePairRecordingMouseO1",
         "title": "Mouse O1 - Scaffold Somatosensory Cortex Microcircuit for Mouse",
         "description": "This model combines specific datasets obtained for mouse somatosensory cortex, models of neuronal electrophysiology constrained to mouse primary visual cortex data from the Allen Cell Types Database, and datasets that were algorithmically transformed from rat to mouse.",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "dataProtected": false,
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          { "name": "Michael W. Reimann", "email": "michael.reimann@epfl.ch" },
-          { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" },
-          { "name": "Srikanth Ramaswamy", "email": "srikanth.ramaswamy@epfl.ch" }
+          {
+            "name": "Michael W. Reimann",
+            "email": "michael.reimann@epfl.ch"
+          },
+          {
+            "name": "Eilif Muller",
+            "email": "eilif.mueller@epfl.ch"
+          },
+          {
+            "name": "Srikanth Ramaswamy",
+            "email": "srikanth.ramaswamy@epfl.ch"
+          }
         ],
         "externalUrl": "https://bluenaas-small-area.apps.ebrains.eu/circuits/mouse-sscx",
         "picture": {
@@ -203,18 +335,37 @@
         "id": "bluePairRecordingHippocampusCA1",
         "title": "Rat hippocampus CA1",
         "description": "A circuit of detailed neuron models based on the Ascoli atlas.",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "dataProtected": false,
         "implementation": "webapp",
         "disabled": false,
         "contributors": [
-          { "name": "Szabolcs Káli", "email": "kali@koki.hu" },
-          { "name": "Audrey Mercer", "email": "a.mercer@ucl.ac.uk" },
-          { "name": "Michele Migliore", "email": "michele.migliore@yale.edu" },
-          { "name": "Armando Romani", "email": "armando.romani@epfl.ch" },
-          { "name": "Eilif Muller", "email": "eilif.mueller@epfl.ch" }
+          {
+            "name": "Szabolcs Káli",
+            "email": "kali@koki.hu"
+          },
+          {
+            "name": "Audrey Mercer",
+            "email": "a.mercer@ucl.ac.uk"
+          },
+          {
+            "name": "Michele Migliore",
+            "email": "michele.migliore@yale.edu"
+          },
+          {
+            "name": "Armando Romani",
+            "email": "armando.romani@epfl.ch"
+          },
+          {
+            "name": "Eilif Muller",
+            "email": "eilif.mueller@epfl.ch"
+          }
         ],
         "externalUrl": "https://bluenaas-small-area.apps.ebrains.eu/circuits/rat-ca1",
         "picture": {
@@ -226,18 +377,40 @@
         "id": "multiscalebraincircuitmodelsofm1andca3",
         "title": "Multiscale brain circuit models of M1 and CA3",
         "description": "Large-scale and biologically realistic models of rodent motor (M1) thalamocortical circuits and a model of CA3 microcircuits showing cross-frequency coupling. Models were developed using the NetPyNE multiscale modeling tool. ",
-        "experience": ["all"],
+        "experience": [
+          "all"
+        ],
         "access": null,
-        "maturity": ["beta"],
+        "maturity": [
+          "beta"
+        ],
         "disabled": false,
         "implementation": "ipynb",
         "contributors": [
-          { "name": "Salvador Dura-Bernal", "email": "salvador.dura-bernal@downstate.edu" },
-          { "name": "Joe Graham", "email": "joe.w.graham@gmail.com" },
-          { "name": "Eugenio Urdapilleta", "email": "urdapile@gmail.com" },
-          { "name": "Joao Moreira", "email": "joao.moreira@downstate.edu" },
-          { "name": "William Lytton", "email": "bill.lytton@downstate.edu" },
-          { "name": "Samuel Neymotin", "email": "samuel.neymotin@nki.rfmh.org" }
+          {
+            "name": "Salvador Dura-Bernal",
+            "email": "salvador.dura-bernal@downstate.edu"
+          },
+          {
+            "name": "Joe Graham",
+            "email": "joe.w.graham@gmail.com"
+          },
+          {
+            "name": "Eugenio Urdapilleta",
+            "email": "urdapile@gmail.com"
+          },
+          {
+            "name": "Joao Moreira",
+            "email": "joao.moreira@downstate.edu"
+          },
+          {
+            "name": "William Lytton",
+            "email": "bill.lytton@downstate.edu"
+          },
+          {
+            "name": "Samuel Neymotin",
+            "email": "samuel.neymotin@nki.rfmh.org"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/M1_2_min.png"
@@ -251,14 +424,24 @@
         "id": "olfactoryBulb",
         "title": "Olfactory Bulb Explorer",
         "description": "Run a simulation of the olfactory bulb on HPC systems, visualize and download results",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "disabled": true,
         "implementation": "webapp",
         "contributors": [
-          { "name": "Luca Leonardo Bologna", "email": "lucaleonardo.bologna@cnr.it" },
-          { "name": "Joao Moreira", "email": "joao.moreira@downstate.edu" }
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Joao Moreira",
+            "email": "joao.moreira@downstate.edu"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/olfactorybulb.png"
@@ -271,15 +454,25 @@
         "id": "striatum_scaffold_create",
         "title": "Striatum Scaffold model (create)",
         "description": "This notebook creates a scaffold model for the mouse striatum microcircuit. The neuron models are based on reconstructed morphologies and electrophysiological experiments optimised using BluePyOpt. The neurons are placed in a volume, and the synapses are placed in locations where the axons and dendrites overlap. Pair wise connectivity matches experimental data.",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
         "disabled": false,
         "contributors": [
-          { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
-          { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
+          {
+            "name": "Johannes Hjorth",
+            "email": "hjorth@kth.se"
+          },
+          {
+            "name": "Alexander Kozlov",
+            "email": "akozlov@kth.se"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/striatum-scaffold.png"
@@ -293,15 +486,25 @@
         "id": "striatum_scaffold_simulate",
         "title": "Striatum Scaffold model (simulate)",
         "description": "This notebook simulates a scaffold model for the mouse striatum microcircuit. This notebook uses the microcircuit created by the Striatum Scaffold model (create) notebook.",
-        "experience": ["all"],
-        "maturity": ["beta"],
+        "experience": [
+          "all"
+        ],
+        "maturity": [
+          "beta"
+        ],
         "access": null,
         "dataProtected": false,
         "implementation": "ipynb",
         "disabled": false,
         "contributors": [
-          { "name": "Johannes Hjorth", "email": "hjorth@kth.se" },
-          { "name": "Alexander Kozlov", "email": "akozlov@kth.se" }
+          {
+            "name": "Johannes Hjorth",
+            "email": "hjorth@kth.se"
+          },
+          {
+            "name": "Alexander Kozlov",
+            "email": "akozlov@kth.se"
+          }
         ],
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/smallcircuitinsilicoexperiments/striatum-scaffold.png"
@@ -310,6 +513,52 @@
         "tutorial": null,
         "notebookPath": "striatum_example_simulate.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/striatum_scaffold_simulate&branch=main"
+      },
+      {
+        "id": "ThetaGammaPAC",
+        "title": "Detailed data-driven CA1 microcircuit model",
+        "description": "he circuit consists of interacting excitatory and inhibitory neuronal populations whose dynamics give rise to theta-frequency oscillations that modulate higher-frequency gamma bursts. The model is implemented using NetPyNE on top of the NEURON simulator and is intended to run on a High-Performance Computing (HPC) system. ",
+        "contributors": [
+          {
+            "name": "Astrid Correa",
+            "email": "astrid.correa@ibf.cnr.it"
+          },
+          {
+            "name": "Luca Leonardo Bologna",
+            "email": "lucaleonardo.bologna@cnr.it"
+          },
+          {
+            "name": "Carmen Alina Lupascu",
+            "email": "carmen.lupascu@ibf.cnr.it"
+          },
+          {
+            "name": "Roberto Smiriglia",
+            "email": "roberto.smiriglia@ibf.cnr.it"
+          },
+          {
+            "name": "Teodora Misan",
+            "email": "teodora.misan@codemart.ro"
+          },
+          {
+            "name": "Lia Domide",
+            "email": "lia.domide@codemart.ro"
+          }
+        ],
+        "maturity": [
+          "beta"
+        ],
+        "implementation": "ipynb",
+        "disable": false,
+        "experience": [
+          "power"
+        ],
+        "dataProtected": false,
+        "tutorial": null,
+        "picture": {
+          "src": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC/blob/687535ae4bca35037c19068921a1c2ecea7807ae/PACSystem.png"
+        },
+        "notebookPath": "tgp_ui.ipynb",
+        "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC.git&branch=main"
       }
     ]
   }
