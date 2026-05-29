@@ -552,6 +552,9 @@
         "experience": [
           "power"
         ],
+        "access": [
+          "hpc"
+        ],
         "dataProtected": false,
         "tutorial": null,
         "picture": {
