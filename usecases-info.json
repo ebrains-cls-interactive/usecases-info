@@ -545,7 +545,7 @@
           }
         ],
         "maturity": [
-          "beta"
+          "experimental"
         ],
         "implementation": "ipynb",
         "disabled": false,
@@ -562,7 +562,7 @@
         },
         "notebookPath": "tgp_ui.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC.git&branch=main",
-        "chooseModel": false,
+        "chooseModel": false
       }
     ]
   }
