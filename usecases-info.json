@@ -178,7 +178,7 @@
           "all"
         ],
         "access": null,
-        "disabled": true,
+        "disabled": false,
         "implementation": "ipynb",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/singlecellmodeling/Plasticity2.png"
