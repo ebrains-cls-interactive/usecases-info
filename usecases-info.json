@@ -244,7 +244,7 @@
         "experience": [
           "all"
         ],
-        "disabled": false,
+        "disabled": true,
         "implementation": "webapp",
         "picture": {
           "src": "https://raw.githubusercontent.com/ebrains-cls-interactive/usecases-info/develop/images/morphology/morphology_3d.png"
@@ -279,7 +279,7 @@
           "all"
         ],
         "access": null,
-        "disabled": false,
+        "disabled": true,
         "dataProtected": false,
         "implementation": "webapp",
         "chooseModel": true,
