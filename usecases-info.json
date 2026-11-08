@@ -560,7 +560,7 @@
         "picture": {
           "src": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC/blob/main/PACSystem.png?raw=true"
         },
-        "notebookPath": "tgp_ui.ipynb",
+        "notebookPath": "notebooks/tgp.ipynb",
         "notebookRepoUrl": "https://github.com/ebrains-cls-interactive/ThetaGammaPAC.git&branch=main"
       }
     ]
